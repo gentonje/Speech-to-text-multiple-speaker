@@ -16,7 +16,6 @@ Environment Variables:
         [Options: local, development, production]  
     - SECRET_KEY: A secret key for the Django project.  
         [Environment variable in: production]  
-    - DEBUG: A boolean value for whether or not to run in debug mode.  
     - ALLOWED_HOSTS: A list of strings representing the allowed hosts.  
         [Environment variable in: development, production]  
     - PSQL_DATABASE_URL: A string representing the database URL.  
